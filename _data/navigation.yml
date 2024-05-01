@@ -3,13 +3,13 @@ main:
   - title: "Lab Members"
     url: /lab-members/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Reports"
+    url: /reports/    
 
-  - title: "Teaching"
+  - title: 
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: 
     url: /portfolio/
         
   - title: "Blog Posts"
